@@ -16,7 +16,10 @@
   "devDependencies": {
     "@cloudflare/workers-types": "^2.0.0",
     "@types/chai": "^4.2.11",
+    "@types/jsrsasign": "^8.0.10",
     "@types/mocha": "^7.0.2",
+    "@types/node": "^14.14.37",
+    "@types/uuid": "^8.3.0",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
     "prettier": "^2.0.5",
@@ -26,5 +29,9 @@
     "typescript": "^3.9.5",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "jsrsasign": "^10.1.13",
+    "uuid": "^8.3.2"
   }
 }

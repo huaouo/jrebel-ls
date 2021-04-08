@@ -1,3 +1,4 @@
+name = "jrebel-ls"
 type = "webpack"
 zone_id = ""
 account_id = ""
